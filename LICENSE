@@ -1,27 +1,3 @@
-# A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective (NeurIPS'22) 
-
-[[Paper]](https://neurips.cc/virtual/2022/poster/55229) [[arXiv]](https://arxiv.org/abs/2208.09913) [[Notebook]](hmix-gmix.ipynb)
-
-by [Chanwoo Park](https://chanwoo-park-official.github.io/)<sup>\*</sup> (MIT), [Sangdoo Yun](https://sangdooyun.github.io/)<sup>\*</sup> (Naver AI Lab), [Sanghyuk Chun](https://sanghyukchun.github.io/home/) (Naver AI Lab)
-
-
-![msda_mask](data/msda_mask.png)
-
-
-## Usage
-
-### Implementation
-- Our implementation is based on timm [`mixup.py`](https://github.com/rwightman/pytorch-image-models/blob/main/timm/data/mixup.py).
-- Check our HMix implementation in [here](mixup.py#L101) and [here](mixup.py#L300).
-- Check our GMix implementation in [here](mixup.py#L121) and [here](mixup.py#L313).
-
-
-## Visualization
-- Check our notebook [`hmix-gmix.ipynb`](hmix-gmix.ipynb) to visualize examples. 
-
-
-## License
-```
 HMix-GMix
 Copyright (c) 2022-present NAVER Corp.
 
@@ -42,4 +18,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-```
