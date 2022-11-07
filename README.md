@@ -12,8 +12,8 @@ by [Chanwoo Park](https://chanwoo-park-official.github.io/)<sup>\*</sup> (MIT), 
 
 ### Implementation
 - Our implementation is based on timm [`mixup.py`](https://github.com/rwightman/pytorch-image-models/blob/main/timm/data/mixup.py).
-- Check our HMix implementation in [here](mixup.py#L101) and [here](mixup.py#L300).
-- Check our GMix implementation in [here](mixup.py#L121) and [here](mixup.py#L313).
+- Check our HMix implementation in [here](mixup.py#L103) and [here](mixup.py#L264).
+- Check our GMix implementation in [here](mixup.py#L123) and [here](mixup.py#L277).
 
 
 ## Visualization
