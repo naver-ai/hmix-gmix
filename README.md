@@ -12,12 +12,12 @@ by [Chanwoo Park](https://chanwoo-park-official.github.io/)<sup>\*</sup> (MIT), 
 
 ### Implementation
 - Our implementation is based on [`timm's mixup.py`](https://github.com/rwightman/pytorch-image-models/blob/main/timm/data/mixup.py).
-- Check our HMix implementation in [here](mixup.py#L103) and [here](mixup.py#L264).
-- Check our GMix implementation in [here](mixup.py#L123) and [here](mixup.py#L277).
+- Check out our HMix implementation in [here](mixup.py#L103) and [here](mixup.py#L264).
+- Check out our GMix implementation in [here](mixup.py#L123) and [here](mixup.py#L277).
 
 
 ## Visualization
-- Check our notebook [`hmix-gmix.ipynb`](hmix-gmix.ipynb) to visualize examples. 
+- Check out our notebook [`hmix-gmix.ipynb`](hmix-gmix.ipynb) to visualize examples. 
 
 
 ## License
